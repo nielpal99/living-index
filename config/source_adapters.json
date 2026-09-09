@@ -1,0 +1,26 @@
+[
+  {
+    "source_id": "georgia_goews_2024_25_scores_crosswalked",
+    "state_abbr": "GA",
+    "path": "work/raw/ga/ga_performance_observations_v2.csv",
+    "adapter_key": "state_csv_adapter",
+    "crosswalk_rule": "exact_nces_district_name",
+    "comparability_group": "state_act_district_average"
+  },
+  {
+    "source_id": "tennessee_act_2024_25_scores",
+    "state_abbr": "TN",
+    "path": "work/raw/tn/tn_act_performance_observations.csv",
+    "adapter_key": "state_csv_adapter",
+    "crosswalk_rule": "exact_nces_district_name",
+    "comparability_group": "state_act_graduate_window"
+  },
+  {
+    "source_id": "kentucky_act_2024_25_scores",
+    "state_abbr": "KY",
+    "path": "work/raw/ky/ky_act_performance_observations.csv",
+    "adapter_key": "state_csv_adapter",
+    "crosswalk_rule": "exact_nces_district_name_with_unmatched_exclusions",
+    "comparability_group": "state_act_grade11_district_total"
+  }
+]

@@ -1,0 +1,621 @@
+District,District Name,Subgroup,Valid Tests,Participation Rate,Average English Score,Average Math Score,Average Reading Score,Average Science Score,Average Composite Score,Number Scoring 21 or Higher,Percent Scoring 21 or Higher,Number Scoring Below 19,Percent Scoring Below 19
+10,Anderson County,All Students,449,100,17.6,18.4,19.2,19,18.7,156,34.7,241,53.7
+10,Anderson County,Black/Hispanic/Native American,40,100,15.8,17.4,17.5,18.2,17.4,8,20,27,67.5
+10,Anderson County,Economically Disadvantaged,120,100,15.7,16.6,17.4,17.2,16.9,23,19.2,85,70.8
+10,Anderson County,English Learners,12,100,12.3,15,13.3,14.9,13.9,<1%,<1%,>99%,>99%
+10,Anderson County,Students with Disabilities,59,100,12.7,14.5,13.9,15.1,14.2,2,3.4,54,91.5
+12,Oak Ridge,All Students,343,100,20.9,20.9,22.5,21.5,21.6,183,53.4,115,33.5
+12,Oak Ridge,Black/Hispanic/Native American,83,99,18.1,18.2,20.3,19.1,19.1,29,34.9,45,54.2
+12,Oak Ridge,Economically Disadvantaged,63,98,17,17.5,19.5,19,18.3,20,31.7,35,55.6
+12,Oak Ridge,English Learners,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+12,Oak Ridge,Students with Disabilities,32,97,14.5,16,16.5,17,16.1,3,9.4,26,81.3
+20,Bedford County,All Students,598,100,16.7,17.7,18.1,18.5,17.9,166,27.8,353,59
+20,Bedford County,Black/Hispanic/Native American,282,100,14.6,16.5,16.5,17.3,16.4,46,16.3,205,72.7
+20,Bedford County,Economically Disadvantaged,261,100,15.5,16.9,17.3,17.7,17,55,21.1,178,68.2
+20,Bedford County,English Learners,66,100,11.3,14.3,13,15.1,13.5,1,1.5,64,97
+20,Bedford County,Students with Disabilities,39,100,11.6,13.8,13.8,15.1,13.7,<1%,<1%,Suppressed,Suppressed
+30,Benton County,All Students,150,100,17.6,18.6,19.2,18.8,18.7,48,32,81,54
+30,Benton County,Black/Hispanic/Native American,13,100,15.9,16.8,18.4,18.1,17.5,2,15.4,8,61.5
+30,Benton County,Economically Disadvantaged,59,100,16.4,17.2,18.7,18.6,17.9,15,25.4,33,55.9
+30,Benton County,English Learners,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+30,Benton County,Students with Disabilities,19,100,13.1,14.9,14.6,16,14.7,1,5.3,18,94.7
+40,Bledsoe County,All Students,107,100,19,17.7,19.6,19.3,19.1,39,36.4,51,47.7
+40,Bledsoe County,Black/Hispanic/Native American,10,100,14.6,15.5,16.2,17,16.1,1,10,7,70
+40,Bledsoe County,Economically Disadvantaged,42,100,16.6,15.8,17.1,17.5,16.9,7,16.7,31,73.8
+40,Bledsoe County,English Learners,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+40,Bledsoe County,Students with Disabilities,15,100,12.9,15.4,13.6,14.4,14.1,<1%,<1%,Suppressed,Suppressed
+50,Blount County,All Students,677,99,19.1,18.9,20.2,19.6,19.6,275,40.6,320,47.3
+50,Blount County,Black/Hispanic/Native American,97,99,16,17,17.4,17.3,17.1,23,23.7,64,66
+50,Blount County,Economically Disadvantaged,107,98,16.7,16.9,18.3,17.8,17.6,32,29.9,63,58.9
+50,Blount County,English Learners,21,100,12,14.8,13.2,14.4,13.8,1,4.8,20,95.2
+50,Blount County,Students with Disabilities,74,95,12.7,14.4,14.4,15.4,14.3,6,8.1,63,85.1
+51,Alcoa,All Students,174,100,19.7,20.1,20.5,20,20.2,78,44.8,80,46
+51,Alcoa,Black/Hispanic/Native American,67,100,17,17.9,17.9,18.1,17.8,16,23.9,43,64.2
+51,Alcoa,Economically Disadvantaged,45,100,16.4,16.8,17.4,17.7,17.3,9,20,31,68.9
+51,Alcoa,English Learners,10,100,13.9,14.7,13.9,15.3,14.7,<1%,<1%,>99%,>99%
+51,Alcoa,Students with Disabilities,19,100,12.5,15.2,13.9,15.5,14.5,1,5.3,17,89.5
+52,Maryville,All Students,376,100,21.7,22,23,21.9,22.3,214,56.9,101,26.9
+52,Maryville,Black/Hispanic/Native American,49,100,18.5,19.2,19.1,19.4,19.2,20,40.8,22,44.9
+52,Maryville,Economically Disadvantaged,49,100,17.6,18.6,19.7,18.9,18.8,17,34.7,25,51
+52,Maryville,English Learners,15,100,14.3,17.5,15.1,18.1,16.5,3,20,12,80
+52,Maryville,Students with Disabilities,29,100,14.3,15.1,15.2,15.4,15.2,3,10.3,23,79.3
+60,Bradley County,All Students,783,100,18.4,18.6,20,19.3,19.2,276,35.2,402,51.3
+60,Bradley County,Black/Hispanic/Native American,120,98,15.8,16.5,17.9,17.4,17.1,22,18.3,82,68.3
+60,Bradley County,Economically Disadvantaged,217,100,15.5,16.5,17.5,17.4,16.9,41,18.9,150,69.1
+60,Bradley County,English Learners,23,100,13.9,15.6,15.3,15.3,15.2,2,8.7,20,87
+60,Bradley County,Students with Disabilities,59,98,12.9,14.7,15.1,15.4,14.7,4,6.8,52,88.1
+61,Cleveland,All Students,424,99,17.2,18.1,19.1,18.6,18.4,140,33,252,59.4
+61,Cleveland,Black/Hispanic/Native American,204,100,14.4,16.3,16.6,16.6,16.1,30,14.7,160,78.4
+61,Cleveland,Economically Disadvantaged,140,99,15.1,16.4,17.1,16.9,16.5,27,19.3,108,77.1
+61,Cleveland,English Learners,73,100,11.5,14.7,13.1,14.6,13.6,<1%,<1%,Suppressed,Suppressed
+61,Cleveland,Students with Disabilities,42,98,12.6,14.4,14.5,16,14.4,3,7.1,38,90.5
+70,Campbell County,All Students,321,98,16.5,16.3,17.9,17.5,17.2,67,20.9,215,67
+70,Campbell County,Black/Hispanic/Native American,9,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+70,Campbell County,Economically Disadvantaged,148,100,14.8,15.4,16.2,16.7,15.9,20,13.5,119,80.4
+70,Campbell County,English Learners,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+70,Campbell County,Students with Disabilities,43,98,10.8,13.4,12.1,14.4,12.8,<1%,<1%,>99%,>99%
+80,Cannon County,All Students,124,99,17.1,17.2,18.5,18.2,17.8,39,31.5,73,58.9
+80,Cannon County,Black/Hispanic/Native American,7,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+80,Cannon County,Economically Disadvantaged,38,97,15.3,16,16.1,16.4,16,6,15.8,28,73.7
+80,Cannon County,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+80,Cannon County,Students with Disabilities,10,100,13.9,14.2,14.6,15.4,14.5,1,10,9,90
+92,Hollow Rock - Bruceton,All Students,39,100,17.4,18.3,18.8,18.7,18.5,11,28.2,22,56.4
+92,Hollow Rock - Bruceton,Black/Hispanic/Native American,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+92,Hollow Rock - Bruceton,Economically Disadvantaged,20,100,15.8,16.7,18,17.9,17.3,3,15,12,60
+92,Hollow Rock - Bruceton,Students with Disabilities,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+93,Huntingdon Special School District,All Students,83,100,18.8,18.5,20.2,19.2,19.3,33,39.8,38,45.8
+93,Huntingdon Special School District,Black/Hispanic/Native American,18,100,15.5,15.4,15.9,16.2,15.9,2,11.1,16,88.9
+93,Huntingdon Special School District,Economically Disadvantaged,23,100,17.7,18,18.7,17.9,18.2,6,26.1,17,73.9
+93,Huntingdon Special School District,Students with Disabilities,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+94,McKenzie,All Students,81,100,18.7,18.6,20.2,19.6,19.4,30,37,35,43.2
+94,McKenzie,Black/Hispanic/Native American,18,100,15.3,16.1,16.1,15.9,16,3,16.7,14,77.8
+94,McKenzie,Economically Disadvantaged,22,100,16.1,16.4,18.4,17.3,17.2,6,27.3,13,59.1
+94,McKenzie,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+94,McKenzie,Students with Disabilities,9,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+95,South Carroll,All Students,23,100,21,21.4,21.9,20.5,21.3,12,52.2,8,34.8
+95,South Carroll,Black/Hispanic/Native American,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+95,South Carroll,Economically Disadvantaged,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+95,South Carroll,Students with Disabilities,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+97,West Carroll Sp Dist,All Students,45,96,17.5,16.6,18.4,17.9,17.8,9,20,27,60
+97,West Carroll Sp Dist,Black/Hispanic/Native American,12,92,15,14.8,16.9,17.2,16.2,1,8.3,8,66.7
+97,West Carroll Sp Dist,Economically Disadvantaged,19,95,16.1,15.2,17.3,16.9,16.5,2,10.5,14,73.7
+97,West Carroll Sp Dist,Students with Disabilities,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+100,Carter County,All Students,344,99,18,17.6,19,18.5,18.4,96,27.9,208,60.5
+100,Carter County,Black/Hispanic/Native American,31,97,17.1,16.5,17.6,18.3,17.6,7,22.6,21,67.7
+100,Carter County,Economically Disadvantaged,178,98,16.9,16.9,18.1,17.9,17.6,34,19.1,120,67.4
+100,Carter County,English Learners,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+100,Carter County,Students with Disabilities,45,98,13.9,15.9,15.4,16.7,15.6,3,6.7,41,91.1
+101,Elizabethton,All Students,211,100,19.9,18.9,20.9,19.8,20,87,41.2,89,42.2
+101,Elizabethton,Black/Hispanic/Native American,14,100,18.6,16.6,19.4,18.4,18.4,4,28.6,8,57.1
+101,Elizabethton,Economically Disadvantaged,77,99,17.8,17.4,18.7,18.6,18.2,22,28.6,48,62.3
+101,Elizabethton,Students with Disabilities,22,100,15,15.3,16.1,18.3,16.4,3,13.6,18,81.8
+110,Cheatham County,All Students,385,100,18.9,18.1,20.3,19.4,19.3,143,37.1,185,48.1
+110,Cheatham County,Black/Hispanic/Native American,57,100,16.5,16.5,18.9,18.4,17.8,14,24.6,37,64.9
+110,Cheatham County,Economically Disadvantaged,122,99,16.4,16,17.9,17.4,17.1,22,18,80,65.6
+110,Cheatham County,English Learners,7,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+110,Cheatham County,Students with Disabilities,41,98,14.6,15,15,16,15.4,3,7.3,35,85.4
+120,Chester County,All Students,185,100,20.4,19.5,21.1,21.2,20.7,88,47.6,67,36.2
+120,Chester County,Black/Hispanic/Native American,26,100,17.7,16.6,19.2,19.3,18.3,8,30.8,15,57.7
+120,Chester County,Economically Disadvantaged,64,100,18.7,18,19.4,19.8,19.1,22,34.4,34,53.1
+120,Chester County,Students with Disabilities,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+130,Claiborne County,All Students,244,100,17,17.8,19.3,18.4,18.3,73,29.9,139,57
+130,Claiborne County,Black/Hispanic/Native American,10,100,15.9,17.1,19.5,18.3,17.9,3,30,5,50
+130,Claiborne County,Economically Disadvantaged,88,100,15.8,17.1,17.6,17.4,17.1,19,21.6,59,67
+130,Claiborne County,Students with Disabilities,30,100,12.6,13.7,14,14.6,13.8,<1%,<1%,Suppressed,Suppressed
+140,Clay County,All Students,66,99,18.9,18.6,18.7,19,19,24,36.4,36,54.5
+140,Clay County,Black/Hispanic/Native American,7,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+140,Clay County,Economically Disadvantaged,19,95,16.9,17.5,17.3,17.7,17.5,4,21.1,13,68.4
+140,Clay County,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+140,Clay County,Students with Disabilities,5,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+150,Cocke County,All Students,377,100,16,16.7,18,17.7,17.3,93,24.7,247,65.5
+150,Cocke County,Black/Hispanic/Native American,44,100,15.3,16,18.6,17.7,17.1,9,20.5,30,68.2
+150,Cocke County,Economically Disadvantaged,160,100,14.7,15.8,16.9,16.7,16.2,24,15,124,77.5
+150,Cocke County,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+150,Cocke County,Students with Disabilities,39,100,12.2,14.4,13.4,15,13.9,2,5.1,36,92.3
+160,Coffee County,All Students,367,100,18.4,18.4,19.7,19.4,19.1,133,36.2,182,49.6
+160,Coffee County,Black/Hispanic/Native American,67,100,16.2,17.1,17.3,17.3,17.1,13,19.4,48,71.6
+160,Coffee County,Economically Disadvantaged,120,99,15.8,16.7,17.2,17.6,17,24,20,86,71.7
+160,Coffee County,English Learners,25,100,14.1,16.6,14.6,16.7,15.7,2,8,21,84
+160,Coffee County,Students with Disabilities,27,96,12.6,15,14.4,16.7,14.8,2,7.4,23,85.2
+162,Tullahoma,All Students,270,100,19.5,19.3,20.4,19.8,19.9,112,41.5,119,44.1
+162,Tullahoma,Black/Hispanic/Native American,62,100,15.6,16,16.6,16.7,16.4,7,11.3,47,75.8
+162,Tullahoma,Economically Disadvantaged,68,100,15.7,16.9,17.1,17.4,16.9,12,17.6,47,69.1
+162,Tullahoma,English Learners,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+162,Tullahoma,Students with Disabilities,24,100,11.1,13.6,13,15.2,13.3,<1%,<1%,>99%,>99%
+170,Crockett County,All Students,212,100,18.8,18.6,19.9,19.3,19.3,80,37.7,105,49.5
+170,Crockett County,Black/Hispanic/Native American,61,100,16.5,17.2,17.4,17.7,17.3,14,23,40,65.6
+170,Crockett County,Economically Disadvantaged,63,100,16.3,16.6,17.2,17.3,17,10,15.9,40,63.5
+170,Crockett County,English Learners,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+170,Crockett County,Students with Disabilities,12,100,13.9,16.1,14.6,16.8,15.5,2,16.7,10,83.3
+180,Cumberland County,All Students,441,100,18.5,19,19.8,19.4,19.3,176,39.9,209,47.4
+180,Cumberland County,Black/Hispanic/Native American,50,100,16.1,17.5,16.9,17.5,17.2,11,22,32,64
+180,Cumberland County,Economically Disadvantaged,331,100,18.1,18.7,19.4,19,18.9,120,36.3,170,51.4
+180,Cumberland County,English Learners,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+180,Cumberland County,Students with Disabilities,32,100,11.8,14.7,14.4,15.3,14.3,2,6.3,29,90.6
+190,Davidson County,All Students,5196,99,16.1,17,17.9,18.1,17.5,1280,24.6,3492,67.2
+190,Davidson County,Black/Hispanic/Native American,3852,99,14.5,15.9,16.4,16.9,16.1,585,15.2,2969,77.1
+190,Davidson County,Economically Disadvantaged,2250,99,14,15.5,16,16.5,15.6,275,12.2,1808,80.4
+190,Davidson County,English Learners,1281,99,11.8,14.6,13.6,15.3,14,50,3.9,1197,93.4
+190,Davidson County,Students with Disabilities,546,99,13,15.3,15.2,16.1,15,58,10.6,466,85.3
+200,Decatur County,All Students,108,100,19.9,19.6,20,19.8,20,42,38.9,46,42.6
+200,Decatur County,Black/Hispanic/Native American,12,100,16.9,18.8,18.8,18.4,18.3,3,25,6,50
+200,Decatur County,Economically Disadvantaged,48,100,18.9,18.8,19.2,19,19.2,15,31.3,27,56.3
+200,Decatur County,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+200,Decatur County,Students with Disabilities,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+210,DeKalb County,All Students,167,100,18.1,17.9,18.9,19,18.6,56,33.5,90,53.9
+210,DeKalb County,Black/Hispanic/Native American,37,100,15.4,16.4,16.1,17.5,16.5,4,10.8,26,70.3
+210,DeKalb County,Economically Disadvantaged,93,100,17,16.8,18.2,18.2,17.8,22,23.7,61,65.6
+210,DeKalb County,English Learners,16,100,14.4,16.5,14.9,16.9,15.9,3,18.8,13,81.3
+210,DeKalb County,Students with Disabilities,16,100,13,13.8,13.9,14.2,13.9,<1%,<1%,>99%,>99%
+220,Dickson County,All Students,561,100,18.3,18.1,19.8,19.2,19,205,36.5,288,51.3
+220,Dickson County,Black/Hispanic/Native American,113,100,16.2,17,17.4,17.9,17.3,25,22.1,74,65.5
+220,Dickson County,Economically Disadvantaged,140,100,16.2,16.9,17.8,17.9,17.3,31,22.1,89,63.6
+220,Dickson County,English Learners,17,100,10.8,15.2,11.8,14.5,13.2,<1%,<1%,>99%,>99%
+220,Dickson County,Students with Disabilities,38,97,12.2,14.3,13.7,14.8,13.9,3,7.9,34,89.5
+230,Dyer County,All Students,246,100,21.7,20.5,21.7,21.1,21.5,130,52.8,88,35.8
+230,Dyer County,Black/Hispanic/Native American,41,100,18.8,18.4,18.4,19.4,19,12,29.3,24,58.5
+230,Dyer County,Economically Disadvantaged,96,100,19.7,19,20.4,19.9,19.9,39,40.6,43,44.8
+230,Dyer County,English Learners,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+230,Dyer County,Students with Disabilities,29,100,13.1,14.5,14.2,15.4,14.5,<1%,<1%,Suppressed,Suppressed
+231,Dyersburg,All Students,143,99,19.9,19.5,20.1,20.2,20.1,66,46.2,61,42.7
+231,Dyersburg,Black/Hispanic/Native American,70,100,16.5,17.2,17.1,18,17.4,19,27.1,43,61.4
+231,Dyersburg,Economically Disadvantaged,67,100,17.4,17.7,17.5,18.4,17.9,20,29.9,41,61.2
+231,Dyersburg,English Learners,7,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+231,Dyersburg,Students with Disabilities,26,100,12.1,14.6,13.1,15,13.9,<1%,<1%,>99%,>99%
+240,Fayette County Public Schools,All Students,187,100,15,15.2,16.7,16.6,16.1,25,13.4,148,79.1
+240,Fayette County Public Schools,Black/Hispanic/Native American,144,100,14.1,14.9,15.9,15.9,15.4,11,7.6,125,86.8
+240,Fayette County Public Schools,Economically Disadvantaged,92,100,13.8,14.6,15.6,15.6,15.1,8,8.7,82,89.1
+240,Fayette County Public Schools,English Learners,16,100,14.3,14.4,15.8,16.4,15.4,1,6.3,13,81.3
+240,Fayette County Public Schools,Students with Disabilities,22,100,11.3,14,13.2,14.4,13.4,<1%,<1%,>99%,>99%
+250,Fentress County,All Students,59,97,17.4,18.5,19,17.9,18.4,17,28.8,33,55.9
+250,Fentress County,Black/Hispanic/Native American,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+250,Fentress County,Economically Disadvantaged,16,100,16.3,17.1,17.8,17.3,17.3,3,18.8,11,68.8
+250,Fentress County,Students with Disabilities,7,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+260,Franklin County,All Students,305,100,17.1,17.3,18.9,18.5,18.1,86,28.2,179,58.7
+260,Franklin County,Black/Hispanic/Native American,46,100,14.6,15.8,16.6,17.4,16.2,7,15.2,36,78.3
+260,Franklin County,Economically Disadvantaged,86,100,16.1,16,18.1,17.5,17,15,17.4,57,66.3
+260,Franklin County,English Learners,7,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+260,Franklin County,Students with Disabilities,30,100,13.2,14.5,14.5,15.7,14.6,2,6.7,27,90
+271,Humboldt City Schools,All Students,60,97,14.1,15.2,15.6,16.2,15.4,5,8.3,50,83.3
+271,Humboldt City Schools,Black/Hispanic/Native American,55,96,13.9,15,15.4,15.8,15.2,3,5.5,47,85.5
+271,Humboldt City Schools,Economically Disadvantaged,45,96,14.4,15.4,15.8,16.2,15.6,5,11.1,36,80
+271,Humboldt City Schools,English Learners,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+271,Humboldt City Schools,Students with Disabilities,5,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+272,Milan,All Students,138,100,19.2,19.7,20,19.8,19.8,56,40.6,60,43.5
+272,Milan,Black/Hispanic/Native American,42,100,16.7,18.1,17.9,17.8,17.8,9,21.4,25,59.5
+272,Milan,Economically Disadvantaged,77,100,17.7,18.3,18,18.6,18.3,22,28.6,41,53.2
+272,Milan,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+272,Milan,Students with Disabilities,14,100,13.6,14.9,15.1,16.7,15.3,1,7.1,13,92.9
+273,Trenton,All Students,114,100,18.4,17.3,18.5,18.3,18.3,30,26.3,63,55.3
+273,Trenton,Black/Hispanic/Native American,42,100,15.7,16.3,16,16.4,16.2,3,7.1,31,73.8
+273,Trenton,Economically Disadvantaged,58,100,17.5,16.6,17.7,17.7,17.5,13,22.4,39,67.2
+273,Trenton,English Learners,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+273,Trenton,Students with Disabilities,10,100,13.3,14.6,15.4,15.1,14.6,1,10,9,90
+274,Bradford,All Students,37,100,19.6,19.5,20.4,20.4,20.1,18,48.6,13,35.1
+274,Bradford,Black/Hispanic/Native American,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+274,Bradford,Economically Disadvantaged,11,100,19.4,19.3,20,20.4,19.9,4,36.4,3,27.3
+274,Bradford,Students with Disabilities,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+275,Gibson Co Sp Dist,All Students,279,100,21.3,20.5,21.8,21.1,21.4,143,51.3,96,34.4
+275,Gibson Co Sp Dist,Black/Hispanic/Native American,26,100,17.6,17.3,16.9,18,17.5,8,30.8,16,61.5
+275,Gibson Co Sp Dist,Economically Disadvantaged,65,100,18.7,18.4,19.6,19,19.1,19,29.2,37,56.9
+275,Gibson Co Sp Dist,Students with Disabilities,22,100,14.1,16,17,16.6,16.2,3,13.6,18,81.8
+280,Giles County,All Students,251,100,18.4,17.6,18.8,19.1,18.6,78,31.1,137,54.6
+280,Giles County,Black/Hispanic/Native American,66,100,15.4,16,15.9,17.1,16.3,10,15.2,50,75.8
+280,Giles County,Economically Disadvantaged,97,100,16.5,16.8,18,18.1,17.5,23,23.7,64,66
+280,Giles County,English Learners,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+280,Giles County,Students with Disabilities,21,100,13.4,14.9,14.5,16.6,14.9,2,9.5,18,85.7
+290,Grainger County,All Students,227,99,17,16.6,18.2,17.9,17.5,60,26.4,143,63
+290,Grainger County,Black/Hispanic/Native American,31,100,16.3,16.3,17.4,17.7,17.1,7,22.6,23,74.2
+290,Grainger County,Economically Disadvantaged,80,99,15.1,15.4,16.3,16.3,15.9,12,15,61,76.3
+290,Grainger County,English Learners,14,100,14.5,15.4,15.6,16.6,15.7,1,7.1,12,85.7
+290,Grainger County,Students with Disabilities,37,97,12.4,13.8,13.6,15.5,13.9,3,8.1,34,91.9
+300,Greene County,All Students,410,100,18,18.3,18.4,18.6,18.5,136,33.2,221,53.9
+300,Greene County,Black/Hispanic/Native American,46,100,17.3,16.9,18.3,18.5,17.9,12,26.1,25,54.3
+300,Greene County,Economically Disadvantaged,146,100,16.9,17.2,17.3,17.7,17.4,36,24.7,90,61.6
+300,Greene County,English Learners,7,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+300,Greene County,Students with Disabilities,46,100,12.5,14.7,13.2,15.8,14.2,2,4.3,43,93.5
+301,Greeneville,All Students,225,99,19.7,20.1,20.9,20,20.3,97,43.1,101,44.9
+301,Greeneville,Black/Hispanic/Native American,43,100,15.5,17,16.3,17.4,16.7,7,16.3,34,79.1
+301,Greeneville,Economically Disadvantaged,82,98,17.2,17.9,18.7,18.5,18.2,21,25.6,53,64.6
+301,Greeneville,English Learners,5,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+301,Greeneville,Students with Disabilities,16,94,11.4,14.8,12.8,15.4,13.8,1,6.3,15,93.8
+310,Grundy County,All Students,101,100,18.1,18.2,19.3,18.5,18.7,29,28.7,49,48.5
+310,Grundy County,Black/Hispanic/Native American,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+310,Grundy County,Economically Disadvantaged,41,100,16.5,16.5,18.2,17,17.2,6,14.6,25,61
+310,Grundy County,English Learners,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+310,Grundy County,Students with Disabilities,13,100,11.8,14.2,12.5,15.1,13.7,<1%,<1%,Suppressed,Suppressed
+320,Hamblen County,All Students,675,100,17,17.9,18.3,18.4,18,184,27.3,409,60.6
+320,Hamblen County,Black/Hispanic/Native American,302,100,14.7,16.6,16.4,17,16.3,51,16.9,226,74.8
+320,Hamblen County,Economically Disadvantaged,254,100,15.3,16.5,16.9,17.2,16.6,50,19.7,178,70.1
+320,Hamblen County,English Learners,116,100,11.3,14.5,13.3,15.1,13.7,2,1.7,112,96.6
+320,Hamblen County,Students with Disabilities,67,100,12.7,15.3,14.3,15.5,14.6,5,7.5,61,91
+330,Hamilton County,All Students,3153,100,17.8,18.6,19.4,19.3,18.9,1159,36.8,1699,53.9
+330,Hamilton County,Black/Hispanic/Native American,1676,100,14.5,16.3,16.5,17,16.2,286,17.1,1261,75.2
+330,Hamilton County,Economically Disadvantaged,1262,100,14.3,16.2,16.4,17,16.1,209,16.6,963,76.3
+330,Hamilton County,English Learners,387,99,11.3,14.2,13.1,15.1,13.6,10,2.6,371,95.9
+330,Hamilton County,Students with Disabilities,286,99,14.6,16.1,16.5,17.1,16.2,44,15.4,218,76.2
+340,Hancock County,All Students,63,100,15.9,15.4,17.5,17.4,16.7,12,19,42,66.7
+340,Hancock County,Economically Disadvantaged,26,100,14.9,15.2,16.9,16.7,16.1,5,19.2,18,69.2
+340,Hancock County,Students with Disabilities,11,100,11.7,12.4,13.5,14.8,13.4,<1%,<1%,>99%,>99%
+350,Hardeman County Schools,All Students,224,99,15.3,15.6,17.2,17,16.4,32,14.3,163,72.8
+350,Hardeman County Schools,Black/Hispanic/Native American,136,99,14.1,14.8,15.7,16.2,15.4,8,5.9,117,86
+350,Hardeman County Schools,Economically Disadvantaged,119,98,14.6,15.3,16.3,16.5,15.8,13,10.9,94,79
+350,Hardeman County Schools,English Learners,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+350,Hardeman County Schools,Students with Disabilities,26,100,11.3,13.5,13.6,15.5,13.7,2,7.7,24,92.3
+360,Hardin County,All Students,226,100,18.1,18.3,19.3,19.1,18.9,79,35,119,52.7
+360,Hardin County,Black/Hispanic/Native American,23,96,16.4,17,17.3,17.4,17.2,4,17.4,18,78.3
+360,Hardin County,Economically Disadvantaged,89,100,16.6,16.9,18,17.7,17.5,22,24.7,58,65.2
+360,Hardin County,English Learners,0,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+360,Hardin County,Students with Disabilities,20,100,12.4,13.1,12.9,14.8,13.4,<1%,<1%,>99%,>99%
+370,Hawkins County,All Students,516,99,16.9,17.3,18.3,18,17.8,138,26.7,321,62.2
+370,Hawkins County,Black/Hispanic/Native American,39,98,15.5,16.8,16.1,17.2,16.6,9,23.1,30,76.9
+370,Hawkins County,Economically Disadvantaged,196,98,14.8,15.9,16.1,16.4,15.9,28,14.3,150,76.5
+370,Hawkins County,English Learners,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+370,Hawkins County,Students with Disabilities,57,95,11.8,14.1,12.9,14.1,13.3,1,1.8,55,96.5
+380,Haywood County,All Students,199,99,14.2,14.9,15.4,15.7,15.2,13,6.5,172,86.4
+380,Haywood County,Black/Hispanic/Native American,170,99,13.6,14.7,14.9,15.5,14.9,7,4.1,151,88.8
+380,Haywood County,Economically Disadvantaged,105,100,13.3,14.5,14.5,15.2,14.6,5,4.8,95,90.5
+380,Haywood County,English Learners,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+380,Haywood County,Students with Disabilities,32,97,12,14,12.5,14.4,13.4,2,6.3,30,93.8
+390,Henderson County,All Students,354,100,19,19.4,19.6,19.4,19.5,132,37.3,168,47.5
+390,Henderson County,Black/Hispanic/Native American,55,100,16.5,17.8,17.7,18.2,17.7,11,20,35,63.6
+390,Henderson County,Economically Disadvantaged,128,99,17.3,18,18,18.2,18,29,22.7,73,57
+390,Henderson County,Students with Disabilities,37,100,13.9,15.2,14,14.6,14.6,1,2.7,33,89.2
+400,Henry County,All Students,328,99,19.9,18.5,20.3,19.4,19.7,132,40.2,151,46
+400,Henry County,Black/Hispanic/Native American,62,100,17.7,17,18.6,18.2,18.1,15,24.2,40,64.5
+400,Henry County,Economically Disadvantaged,163,99,18.3,17.4,19.1,18.2,18.4,47,28.8,92,56.4
+400,Henry County,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+400,Henry County,Students with Disabilities,26,96,12.8,14.7,13.6,14.9,14.2,1,3.8,24,92.3
+410,Hickman County,All Students,183,98,17.4,18.1,19.3,18.5,18.5,52,28.4,101,55.2
+410,Hickman County,Black/Hispanic/Native American,24,92,16,17.1,19.1,17,17.5,5,20.8,15,62.5
+410,Hickman County,Economically Disadvantaged,75,99,16.5,17.3,18.2,17.3,17.5,15,20,49,65.3
+410,Hickman County,English Learners,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+410,Hickman County,Students with Disabilities,23,96,13.3,15.3,16.2,15.5,15.2,1,4.3,18,78.3
+420,Houston County,All Students,81,99,18.4,18,19.7,18.7,18.9,25,30.9,45,55.6
+420,Houston County,Black/Hispanic/Native American,15,100,16.5,15.7,18.8,17.1,17.3,3,20,9,60
+420,Houston County,Economically Disadvantaged,25,96,16.6,16.4,18.4,17.1,17.3,6,24,19,76
+420,Houston County,Students with Disabilities,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+430,Humphreys County,All Students,145,100,18.5,17.9,19.9,19.4,19.1,52,35.9,73,50.3
+430,Humphreys County,Black/Hispanic/Native American,9,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+430,Humphreys County,Economically Disadvantaged,44,100,18,16.8,19.7,18.8,18.5,14,31.8,23,52.3
+430,Humphreys County,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+430,Humphreys County,Students with Disabilities,17,100,14.6,14.6,15.1,15.1,15,<1%,<1%,Suppressed,Suppressed
+440,Jackson County,All Students,80,100,18.6,18,20.1,19.8,19.3,33,41.3,35,43.8
+440,Jackson County,Black/Hispanic/Native American,11,100,19.6,19,23.1,20,20.5,6,54.5,3,27.3
+440,Jackson County,Economically Disadvantaged,37,100,18.2,17.7,19.6,19.7,18.9,14,37.8,17,45.9
+440,Jackson County,Students with Disabilities,9,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+450,Jefferson County,All Students,491,99,17.7,18.1,19.2,19.2,18.7,157,32,266,54.2
+450,Jefferson County,Black/Hispanic/Native American,89,100,15.7,17.5,17.5,18.1,17.4,16,18,59,66.3
+450,Jefferson County,Economically Disadvantaged,135,99,15.9,16.2,17.5,17.2,16.8,21,15.6,100,74.1
+450,Jefferson County,English Learners,23,96,13.9,15.6,15.5,16.3,15.5,1,4.3,21,91.3
+450,Jefferson County,Students with Disabilities,50,100,12.6,14.5,13.1,15.2,14,3,6,46,92
+460,Johnson County,All Students,502,96,17.2,16.6,18.9,17.9,17.8,130,25.9,311,62
+460,Johnson County,Black/Hispanic/Native American,137,93,15.7,15.2,18,16.6,16.5,20,14.6,99,72.3
+460,Johnson County,Economically Disadvantaged,228,95,15.8,15.6,17.6,17,16.7,39,17.1,167,73.2
+460,Johnson County,English Learners,10,91,12.1,14.5,15.2,15.2,14.3,<1%,<1%,>99%,>99%
+460,Johnson County,Students with Disabilities,70,96,12.1,14.2,13.9,15.3,14,4,5.7,66,94.3
+470,Knox County,All Students,4145,98,19.3,19.4,20.8,20.3,20.1,1830,44.1,1875,45.2
+470,Knox County,Black/Hispanic/Native American,1285,98,15.2,16.4,17,17.3,16.6,239,18.6,927,72.1
+470,Knox County,Economically Disadvantaged,954,99,15.1,16.1,17,17.2,16.5,168,17.6,694,72.7
+470,Knox County,English Learners,326,97,12.6,15.2,14,16,14.6,21,6.4,287,88
+470,Knox County,Students with Disabilities,403,97,13.3,15.1,14.7,16,14.9,35,8.7,348,86.4
+480,Lake County,All Students,40,95,16.2,16.2,18.1,17.1,17.1,7,17.5,28,70
+480,Lake County,Black/Hispanic/Native American,14,88,14.6,14.6,15.4,14.6,14.9,<1%,<1%,Suppressed,Suppressed
+480,Lake County,Economically Disadvantaged,22,92,15.1,16,16.9,16.4,16.2,2,9.1,18,81.8
+480,Lake County,Students with Disabilities,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+490,Lauderdale County,All Students,219,100,15.3,16.2,17.1,17.3,16.6,31,14.2,159,72.6
+490,Lauderdale County,Black/Hispanic/Native American,120,100,13.9,15.3,15.6,16.6,15.5,7,5.8,99,82.5
+490,Lauderdale County,Economically Disadvantaged,100,100,13.9,15.6,16.2,16.9,15.8,9,9,79,79
+490,Lauderdale County,English Learners,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+490,Lauderdale County,Students with Disabilities,33,100,12.2,14,12.8,14.9,13.6,<1%,<1%,Suppressed,Suppressed
+500,Lawrence County,All Students,440,99,19,18.9,20,19.5,19.5,173,39.3,211,48
+500,Lawrence County,Black/Hispanic/Native American,25,100,18.6,17.3,20.5,19.4,19,10,40,12,48
+500,Lawrence County,Economically Disadvantaged,176,99,17.1,17.5,18.7,17.8,17.9,50,28.4,110,62.5
+500,Lawrence County,Students with Disabilities,33,100,12.3,15,13.6,15.1,14.1,<1%,<1%,Suppressed,Suppressed
+510,Lewis County,All Students,207,97,17,17.3,18.1,17.8,17.7,50,24.2,130,62.8
+510,Lewis County,Black/Hispanic/Native American,46,96,14.4,15.2,15.9,16.5,15.7,3,6.5,39,84.8
+510,Lewis County,Economically Disadvantaged,98,100,16.3,16.7,17.7,17.6,17.2,20,20.4,64,65.3
+510,Lewis County,English Learners,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+510,Lewis County,Students with Disabilities,26,96,12.2,14.2,14,15.2,14.1,<1%,<1%,Suppressed,Suppressed
+520,Lincoln County,All Students,279,99,19.9,19.1,20.7,19.7,20,124,44.4,114,40.9
+520,Lincoln County,Black/Hispanic/Native American,32,100,16.9,18,18.6,18.1,18,7,21.9,17,53.1
+520,Lincoln County,Economically Disadvantaged,80,99,17.7,17.2,19,18.3,18.2,22,27.5,45,56.3
+520,Lincoln County,English Learners,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+520,Lincoln County,Students with Disabilities,24,100,15.6,16.1,16.8,18,16.7,4,16.7,17,70.8
+521,Fayetteville,All Students,92,100,16.6,17,18.7,18.3,17.8,21,22.8,58,63
+521,Fayetteville,Black/Hispanic/Native American,50,100,14.8,15.7,16.5,16.6,16.1,4,8,41,82
+521,Fayetteville,Economically Disadvantaged,45,100,14.4,15.4,16.4,16.6,15.9,2,4.4,38,84.4
+521,Fayetteville,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+521,Fayetteville,Students with Disabilities,10,100,14.2,15.3,16.9,17.3,16,1,10,8,80
+530,Loudon County,All Students,235,100,18.3,19.1,19.2,19.2,19.1,98,41.7,112,47.7
+530,Loudon County,Black/Hispanic/Native American,50,100,15.3,17.3,16.3,17.3,16.7,12,24,37,74
+530,Loudon County,Economically Disadvantaged,53,100,17.7,18.5,17.9,18.7,18.4,20,37.7,29,54.7
+530,Loudon County,English Learners,10,100,11,15.4,13.4,15.9,13.9,<1%,<1%,>99%,>99%
+530,Loudon County,Students with Disabilities,26,100,12.4,14.7,13.8,16,14.3,2,7.7,23,88.5
+531,Lenoir City,All Students,304,100,18.5,18.8,19.9,19.5,19.3,117,38.5,158,52
+531,Lenoir City,Black/Hispanic/Native American,111,99,14.8,16.4,16.5,17,16.4,20,18,82,73.9
+531,Lenoir City,Economically Disadvantaged,68,99,16.5,17.3,18.5,17.8,17.7,18,26.5,45,66.2
+531,Lenoir City,English Learners,39,100,12.1,14.5,13,15.1,13.8,1,2.6,37,94.9
+531,Lenoir City,Students with Disabilities,17,100,14.6,15.1,14.3,15.2,14.9,<1%,<1%,Suppressed,Suppressed
+540,McMinn County,All Students,408,99,18.4,18.4,19.3,19.1,19,143,35,209,51.2
+540,McMinn County,Black/Hispanic/Native American,74,99,16,16.5,17.3,17.4,16.9,14,18.9,47,63.5
+540,McMinn County,Economically Disadvantaged,148,99,17.1,17,17.7,18.2,17.6,35,23.6,92,62.2
+540,McMinn County,English Learners,13,93,14.2,15.4,14.9,16.3,15.4,2,15.4,11,84.6
+540,McMinn County,Students with Disabilities,62,97,12.5,14.4,13.9,15.5,14.2,1,1.6,58,93.5
+550,McNairy County,All Students,275,100,18.6,18.1,19.5,19.1,19,100,36.4,141,51.3
+550,McNairy County,Black/Hispanic/Native American,35,100,15.2,16.1,17.1,17.1,16.6,7,20,26,74.3
+550,McNairy County,Economically Disadvantaged,120,100,16.8,17,18,17.7,17.5,28,23.3,75,62.5
+550,McNairy County,English Learners,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+550,McNairy County,Students with Disabilities,25,100,12.5,14.8,13.6,15.6,14.3,1,4,24,96
+560,Macon County,All Students,253,100,18.3,18.5,19,18.8,18.8,87,34.4,136,53.8
+560,Macon County,Black/Hispanic/Native American,53,100,14.6,16.6,16.7,17.4,16.5,9,17,41,77.4
+560,Macon County,Economically Disadvantaged,76,100,15.9,17,17.6,17.3,17.1,14,18.4,58,76.3
+560,Macon County,English Learners,26,100,12.7,15.9,14.9,16.8,15.3,1,3.8,24,92.3
+560,Macon County,Students with Disabilities,18,100,11.9,14.8,13.1,14.6,13.8,<1%,<1%,Suppressed,Suppressed
+570,Madison County,All Students,843,100,15.8,16.3,17.5,17.4,16.9,164,19.5,602,71.4
+570,Madison County,Black/Hispanic/Native American,614,100,14.5,15.4,16.3,16.6,15.9,73,11.9,495,80.6
+570,Madison County,Economically Disadvantaged,459,100,14.2,15.3,16.1,16.4,15.7,48,10.5,375,81.7
+570,Madison County,English Learners,54,100,12.9,14.7,14,15.6,14.4,3,5.6,49,90.7
+570,Madison County,Students with Disabilities,80,100,11.6,14.3,13.8,15.3,13.9,3,3.8,77,96.3
+580,Marion County,All Students,280,100,17.7,17.5,18.9,18.3,18.2,78,27.9,167,59.6
+580,Marion County,Black/Hispanic/Native American,32,100,16.1,16,17.6,17,16.8,4,12.5,26,81.3
+580,Marion County,Economically Disadvantaged,120,100,16.8,16.7,17.9,17.5,17.4,25,20.8,83,69.2
+580,Marion County,English Learners,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+580,Marion County,Students with Disabilities,34,100,13.2,15.5,14.7,15.7,14.9,3,8.8,29,85.3
+581,Richard City,All Students,12,100,15.5,17,19.3,17.8,17.4,3,25,8,66.7
+581,Richard City,Economically Disadvantaged,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+581,Richard City,Students with Disabilities,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+590,Marshall County,All Students,347,100,18.7,18.5,19.3,19.2,19.1,111,32,179,51.6
+590,Marshall County,Black/Hispanic/Native American,110,100,16.7,16.7,17,17.5,17.1,18,16.4,73,66.4
+590,Marshall County,Economically Disadvantaged,95,100,17.1,16.9,17.4,17.4,17.3,16,16.8,63,66.3
+590,Marshall County,English Learners,30,100,13.4,14.5,13.5,15.4,14.3,<1%,<1%,Suppressed,Suppressed
+590,Marshall County,Students with Disabilities,35,100,13.9,15.6,15.1,16.1,15.3,4,11.4,30,85.7
+600,Maury County,All Students,840,99,16.9,17.6,18.7,18.4,18,234,27.9,507,60.4
+600,Maury County,Black/Hispanic/Native American,312,99,14.3,15.7,16.4,16.4,15.9,38,12.2,246,78.8
+600,Maury County,Economically Disadvantaged,242,99,14.9,16,16.8,17,16.3,32,13.2,189,78.1
+600,Maury County,English Learners,37,97,10.6,14.3,12.6,14.4,13.1,<1%,<1%,>99%,>99%
+600,Maury County,Students with Disabilities,87,97,12.3,15.3,14,16,14.5,5,5.7,80,92
+610,Meigs County,All Students,125,100,20.3,18.1,20.3,19.7,19.7,48,38.4,54,43.2
+610,Meigs County,Black/Hispanic/Native American,7,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+610,Meigs County,Economically Disadvantaged,32,100,18,16.9,18.8,19.4,18.4,10,31.3,18,56.3
+610,Meigs County,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+610,Meigs County,Students with Disabilities,12,100,14.2,14.8,14.8,14.9,14.8,1,8.3,11,91.7
+620,Monroe County,All Students,478,100,16.4,17.1,18.6,17.7,17.6,109,22.8,307,64.2
+620,Monroe County,Black/Hispanic/Native American,75,97,14.1,16.2,17,16.7,16.1,12,16,55,73.3
+620,Monroe County,Economically Disadvantaged,219,100,15.4,16.4,17.3,16.9,16.6,33,15.1,161,73.5
+620,Monroe County,English Learners,18,95,11.9,15.2,14.7,15.6,14.6,2,11.1,16,88.9
+620,Monroe County,Students with Disabilities,68,100,11.7,14.3,13.4,15,13.7,2,2.9,65,95.6
+630,Montgomery County,All Students,2556,95,18.5,18.5,20.2,19.4,19.3,977,38.2,1277,50
+630,Montgomery County,Black/Hispanic/Native American,1298,94,17,17.3,18.8,18.3,18,359,27.7,789,60.8
+630,Montgomery County,Economically Disadvantaged,710,91,15.9,16.6,17.8,17.3,17,142,20,498,70.1
+630,Montgomery County,English Learners,100,92,14.3,16.9,15.9,16.8,16.2,16,16,76,76
+630,Montgomery County,Students with Disabilities,284,89,13.3,15,14.9,15.9,14.9,19,6.7,252,88.7
+640,Moore County,All Students,70,100,20.1,19.7,20.3,20.8,20.4,35,50,27,38.6
+640,Moore County,Black/Hispanic/Native American,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+640,Moore County,Economically Disadvantaged,16,100,16.6,17.3,17.9,18.6,17.7,5,31.3,10,62.5
+640,Moore County,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+640,Moore County,Students with Disabilities,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+650,Morgan County,All Students,227,100,15.3,16.4,17,17.2,16.6,37,16.3,164,72.2
+650,Morgan County,Black/Hispanic/Native American,15,100,13.2,14.9,14.2,15.8,14.6,1,6.7,14,93.3
+650,Morgan County,Economically Disadvantaged,111,100,13.8,15.7,15.5,16.1,15.4,11,9.9,92,82.9
+650,Morgan County,English Learners,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+650,Morgan County,Students with Disabilities,36,97,11.5,14.5,12.9,15.1,13.6,1,2.8,34,94.4
+660,Obion County,All Students,190,99,18.6,19,19.2,19.5,19.2,72,37.9,93,48.9
+660,Obion County,Black/Hispanic/Native American,27,100,16.2,17.4,16.5,17.4,17,5,18.5,20,74.1
+660,Obion County,Economically Disadvantaged,77,97,16.3,17.3,17.3,17.8,17.3,17,22.1,53,68.8
+660,Obion County,English Learners,9,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+660,Obion County,Students with Disabilities,13,93,12.8,14.6,14.1,15.1,14.2,<1%,<1%,Suppressed,Suppressed
+661,Union City,All Students,84,100,22,21.5,21.5,20.1,21.5,46,54.8,26,31
+661,Union City,Black/Hispanic/Native American,42,100,20.6,19.9,20.5,18.9,20.2,19,45.2,17,40.5
+661,Union City,Economically Disadvantaged,28,100,20.4,19.7,21,19.4,20.4,12,42.9,11,39.3
+661,Union City,English Learners,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+661,Union City,Students with Disabilities,5,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+670,Overton County,All Students,164,100,18.5,18.2,19.9,19.3,19.1,60,36.6,75,45.7
+670,Overton County,Black/Hispanic/Native American,9,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+670,Overton County,Economically Disadvantaged,49,100,15.7,17.1,17.4,17.6,17.1,11,22.4,31,63.3
+670,Overton County,English Learners,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+670,Overton County,Students with Disabilities,14,100,12.6,13.9,12.6,15.1,13.6,<1%,<1%,>99%,>99%
+680,Perry County,All Students,70,100,17.3,16.8,18.2,18.1,17.8,21,30,41,58.6
+680,Perry County,Black/Hispanic/Native American,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+680,Perry County,Economically Disadvantaged,31,100,15.9,16.3,16.9,17.1,16.7,8,25.8,21,67.7
+680,Perry County,Students with Disabilities,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+690,Pickett County,All Students,50,100,19.7,19.2,19.2,20.3,19.8,19,38,22,44
+690,Pickett County,Black/Hispanic/Native American,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+690,Pickett County,Economically Disadvantaged,14,100,15.4,17.1,17.9,18,17.3,4,28.6,10,71.4
+690,Pickett County,Students with Disabilities,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+700,Polk County,All Students,145,99,17.8,18.3,18.6,18.3,18.4,46,31.7,79,54.5
+700,Polk County,Black/Hispanic/Native American,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+700,Polk County,Economically Disadvantaged,57,100,16.6,17.2,18,17.5,17.5,11,19.3,33,57.9
+700,Polk County,Students with Disabilities,22,100,12.4,14.6,13.4,15.3,14.1,1,4.5,21,95.5
+710,Putnam County,All Students,902,99,19.2,19.7,20.1,19.9,19.9,377,41.8,418,46.3
+710,Putnam County,Black/Hispanic/Native American,203,99,15,16.9,16.5,17.3,16.6,32,15.8,151,74.4
+710,Putnam County,Economically Disadvantaged,421,98,16.7,17.8,17.8,18.2,17.8,112,26.6,267,63.4
+710,Putnam County,English Learners,76,99,12.5,15.5,14,15.8,14.7,4,5.3,67,88.2
+710,Putnam County,Students with Disabilities,98,92,13.4,15.8,15,16.1,15.2,9,9.2,85,86.7
+720,Rhea County,All Students,291,100,18.1,18.9,18.9,19,18.8,100,34.4,160,55
+720,Rhea County,Black/Hispanic/Native American,54,100,16.1,17.7,17.7,17.4,17.3,12,22.2,32,59.3
+720,Rhea County,Economically Disadvantaged,93,100,15.8,17,16.7,17.3,16.8,17,18.3,64,68.8
+720,Rhea County,English Learners,14,100,12.6,15.8,14.2,15.8,14.7,1,7.1,12,85.7
+720,Rhea County,Students with Disabilities,25,100,12.5,14.8,13.8,15,14.1,1,4,24,96
+730,Roane County,All Students,451,100,18.3,18.8,19.9,19.7,19.3,178,39.5,221,49
+730,Roane County,Black/Hispanic/Native American,60,100,17,17.8,19,19.4,18.5,19,31.7,30,50
+730,Roane County,Economically Disadvantaged,152,100,15.9,17.2,17.9,18.4,17.5,38,25,100,65.8
+730,Roane County,English Learners,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+730,Roane County,Students with Disabilities,58,100,12.4,15.2,13.8,16.3,14.6,3,5.2,52,89.7
+740,Robertson County,All Students,844,99,17.3,17.6,19,18.7,18.3,250,29.6,478,56.6
+740,Robertson County,Black/Hispanic/Native American,332,99,14.8,16.2,16.8,17.2,16.4,49,14.8,255,76.8
+740,Robertson County,Economically Disadvantaged,246,100,15.3,16.4,17,17.3,16.6,40,16.3,183,74.4
+740,Robertson County,English Learners,89,98,11.4,14.3,13.4,15.1,13.7,1,1.1,88,98.9
+740,Robertson County,Students with Disabilities,68,96,13.4,14.9,15,16.9,15.2,7,10.3,58,85.3
+750,Rutherford County,All Students,4509,99,19.5,18.8,20.2,19.9,19.8,1840,40.8,2097,46.5
+750,Rutherford County,Black/Hispanic/Native American,2116,99,17,16.9,17.9,18.1,17.6,521,24.6,1336,63.1
+750,Rutherford County,Economically Disadvantaged,1099,99,16.6,16.7,17.9,17.8,17.4,254,23.1,705,64.1
+750,Rutherford County,English Learners,622,99,13.6,15.5,14.5,16.5,15.2,52,8.4,519,83.4
+750,Rutherford County,Students with Disabilities,324,99,14,15.2,15.3,16,15.3,33,10.2,275,84.9
+760,Scott County,All Students,131,99,17.6,16.4,19.1,18.4,18,37,28.2,71,54.2
+760,Scott County,Black/Hispanic/Native American,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+760,Scott County,Economically Disadvantaged,70,99,16.9,15.5,18.6,18.2,17.5,17,24.3,42,60
+760,Scott County,Students with Disabilities,15,100,11.8,12.4,12.6,15.1,13.1,1,6.7,14,93.3
+761,Oneida,All Students,94,100,18.6,19.2,20.2,19.6,19.6,37,39.4,46,48.9
+761,Oneida,Black/Hispanic/Native American,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+761,Oneida,Economically Disadvantaged,37,100,15.7,16.4,17.7,17.2,16.8,5,13.5,27,73
+761,Oneida,Students with Disabilities,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+770,Sequatchie County,All Students,131,99,18.8,18.6,20.3,19.6,19.4,55,42,57,43.5
+770,Sequatchie County,Black/Hispanic/Native American,16,100,17.6,18.2,20.3,19.1,19.1,6,37.5,7,43.8
+770,Sequatchie County,Economically Disadvantaged,44,100,16.8,17.8,18.4,19.1,18.2,14,31.8,24,54.5
+770,Sequatchie County,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+770,Sequatchie County,Students with Disabilities,9,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+780,Sevier County,All Students,1004,100,18.4,18.5,19.3,19.1,19,361,36,534,53.2
+780,Sevier County,Black/Hispanic/Native American,268,100,15.4,16.2,16.7,16.9,16.5,45,16.8,199,74.3
+780,Sevier County,Economically Disadvantaged,261,99,16,16.5,17.1,17.3,16.9,50,19.2,181,69.3
+780,Sevier County,English Learners,136,100,12.7,14.8,14.3,15.5,14.5,7,5.1,122,89.7
+780,Sevier County,Students with Disabilities,82,98,12.9,14.4,14.2,15.6,14.4,3,3.7,76,92.7
+792,Memphis-Shelby County Schools,All Students,6579,100,15,16.2,16.9,17,16.4,1041,15.8,4918,74.8
+792,Memphis-Shelby County Schools,Black/Hispanic/Native American,6187,100,14.5,15.9,16.5,16.7,16,810,13.1,4789,77.4
+792,Memphis-Shelby County Schools,Economically Disadvantaged,4326,100,14,15.7,16.1,16.4,15.7,460,10.6,3506,81
+792,Memphis-Shelby County Schools,English Learners,695,99,12.2,15,14.1,15.5,14.3,29,4.2,640,92.1
+792,Memphis-Shelby County Schools,Students with Disabilities,510,100,12.1,14.7,14.3,15.6,14.3,31,6.1,462,90.6
+793,Arlington,All Students,511,100,22.6,21.6,23.5,22.3,22.7,324,63.4,114,22.3
+793,Arlington,Black/Hispanic/Native American,135,100,20.7,19.9,21.6,20.7,20.9,69,51.1,45,33.3
+793,Arlington,Economically Disadvantaged,29,100,19.1,18.7,20.4,19.7,19.6,14,48.3,11,37.9
+793,Arlington,English Learners,22,100,18.1,17.7,18.1,18,18.2,5,22.7,13,59.1
+793,Arlington,Students with Disabilities,36,100,16.8,16.9,18.7,17.3,17.5,5,13.9,21,58.3
+794,Bartlett,All Students,672,100,20.4,19.9,21.6,20.8,20.9,332,49.4,223,33.2
+794,Bartlett,Black/Hispanic/Native American,314,100,18.9,18.6,20.1,19.7,19.5,120,38.2,137,43.6
+794,Bartlett,Economically Disadvantaged,124,100,18.2,18.1,19.6,19.1,18.8,39,31.5,62,50
+794,Bartlett,English Learners,29,100,16.3,16.9,16.5,17.4,16.9,6,20.7,20,69
+794,Bartlett,Students with Disabilities,61,100,15.8,16.1,16.7,16.7,16.4,7,11.5,48,78.7
+795,Collierville,All Students,716,100,23.5,23,24.5,23.4,23.7,497,69.4,154,21.5
+795,Collierville,Black/Hispanic/Native American,219,100,19.7,19.5,21.2,20.3,20.3,102,46.6,88,40.2
+795,Collierville,Economically Disadvantaged,74,100,17.1,17.6,18.9,18.9,18.3,23,31.1,43,58.1
+795,Collierville,English Learners,32,100,19.3,22,20,20.5,20.6,14,43.8,15,46.9
+795,Collierville,Students with Disabilities,72,100,16.9,16.9,19.1,18.5,18,19,26.4,47,65.3
+796,Germantown,All Students,485,100,24.2,23,25.4,23.9,24.3,358,73.8,79,16.3
+796,Germantown,Black/Hispanic/Native American,114,100,21.5,20.9,22.1,21,21.6,64,56.1,35,30.7
+796,Germantown,Economically Disadvantaged,35,100,20.6,20.1,22.2,20.6,21,18,51.4,15,42.9
+796,Germantown,English Learners,7,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+796,Germantown,Students with Disabilities,39,100,17.3,17.2,20.6,18.5,18.5,13,33.3,24,61.5
+798,Millington Municipal Schools,All Students,199,100,18.2,18.6,19.2,19.1,19,66,33.2,107,53.8
+798,Millington Municipal Schools,Black/Hispanic/Native American,130,99,17.1,17.7,18.3,18.2,18,33,25.4,78,60
+798,Millington Municipal Schools,Economically Disadvantaged,79,100,17,17.6,17.9,18.3,17.9,20,25.3,54,68.4
+798,Millington Municipal Schools,English Learners,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+798,Millington Municipal Schools,Students with Disabilities,15,100,13.7,15.5,14.4,15.2,14.8,<1%,<1%,Suppressed,Suppressed
+800,Smith County,All Students,189,99,19,18.5,20.4,19.6,19.6,81,42.9,90,47.6
+800,Smith County,Black/Hispanic/Native American,20,100,18.8,18.1,20.3,19.4,19.3,7,35,10,50
+800,Smith County,Economically Disadvantaged,45,100,17,17.1,18.8,18.4,17.9,11,24.4,30,66.7
+800,Smith County,Students with Disabilities,25,100,14.2,14.9,15,15.7,15.1,1,4,22,88
+810,Stewart County,All Students,136,99,17.8,18.6,19.2,19,18.8,46,33.8,67,49.3
+810,Stewart County,Black/Hispanic/Native American,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+810,Stewart County,Economically Disadvantaged,34,97,14,15.1,16,15.8,15.3,3,8.8,28,82.4
+810,Stewart County,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+810,Stewart County,Students with Disabilities,16,94,14.4,15.2,15.5,15.6,15.3,2,12.5,14,87.5
+820,Sullivan County,All Students,591,99,18,18.2,19.3,18.6,18.7,190,32.1,317,53.6
+820,Sullivan County,Black/Hispanic/Native American,37,100,16.9,17.1,18.7,18.2,17.9,10,27,20,54.1
+820,Sullivan County,Economically Disadvantaged,174,100,15.5,16.3,17.2,17.2,16.7,31,17.8,122,70.1
+820,Sullivan County,English Learners,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+820,Sullivan County,Students with Disabilities,63,98,12.3,14.7,13.6,14.7,14,3,4.8,58,92.1
+821,Bristol,All Students,325,100,20.3,19.2,21.1,20.3,20.4,146,44.9,138,42.5
+821,Bristol,Black/Hispanic/Native American,29,100,18,18.4,19,18.3,18.5,8,27.6,19,65.5
+821,Bristol,Economically Disadvantaged,78,100,16.5,16.4,17.6,17.6,17.1,14,17.9,49,62.8
+821,Bristol,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+821,Bristol,Students with Disabilities,18,100,14.7,15.4,14.9,16.9,15.6,2,11.1,16,88.9
+822,Kingsport,All Students,547,99,20,21.3,21.3,20.6,21,269,49.2,227,41.5
+822,Kingsport,Black/Hispanic/Native American,100,99,17.5,18.9,19,18.4,18.6,37,37,55,55
+822,Kingsport,Economically Disadvantaged,179,98,15.9,17.7,17.6,17.3,17.3,43,24,119,66.5
+822,Kingsport,English Learners,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+822,Kingsport,Students with Disabilities,80,96,13.3,15.2,14.8,15.2,14.8,6,7.5,72,90
+830,Sumner County,All Students,2187,100,20.4,20.1,21.3,20.6,20.8,1076,49.2,865,39.6
+830,Sumner County,Black/Hispanic/Native American,573,100,16.7,17.5,18.2,18,17.7,140,24.4,373,65.1
+830,Sumner County,Economically Disadvantaged,469,100,17,17.3,18.1,18,17.7,126,26.9,300,64
+830,Sumner County,English Learners,99,99,13.6,15.6,14.5,15.9,15,6,6.1,88,88.9
+830,Sumner County,Students with Disabilities,222,100,15,15.9,16.5,16.8,16.2,33,14.9,179,80.6
+840,Tipton County,All Students,704,99,19.4,19.1,20,19.7,19.7,291,41.3,321,45.6
+840,Tipton County,Black/Hispanic/Native American,222,100,16.8,17,17.5,17.8,17.4,46,20.7,142,64
+840,Tipton County,Economically Disadvantaged,235,99,16.8,17.1,17.8,17.9,17.5,58,24.7,154,65.5
+840,Tipton County,English Learners,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+840,Tipton County,Students with Disabilities,62,98,13.5,15,14.5,16.1,14.9,4,6.5,55,88.7
+850,Trousdale County,All Students,91,100,19.5,19.7,20.4,19.5,19.9,41,45.1,41,45.1
+850,Trousdale County,Black/Hispanic/Native American,25,100,18.7,18.6,20.1,18.4,19.2,11,44,11,44
+850,Trousdale County,Economically Disadvantaged,26,100,17,16.6,17.8,17.1,17.2,5,19.2,17,65.4
+850,Trousdale County,Students with Disabilities,11,100,14.3,15.1,15.5,14.8,15.1,1,9.1,10,90.9
+860,Unicoi County,All Students,150,96,17.8,18.2,19.4,18.6,18.6,48,32,82,54.7
+860,Unicoi County,Black/Hispanic/Native American,22,96,16.6,18.9,18.4,19,18.3,7,31.8,12,54.5
+860,Unicoi County,Economically Disadvantaged,54,96,15.6,16.3,17.3,17.3,16.7,8,14.8,42,77.8
+860,Unicoi County,English Learners,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+860,Unicoi County,Students with Disabilities,21,100,13.7,14.7,14.8,14.7,14.6,1,4.8,18,85.7
+870,Union County,All Students,160,98,16,17,17.7,17.4,17.2,40,25,107,66.9
+870,Union County,Black/Hispanic/Native American,8,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+870,Union County,Economically Disadvantaged,56,95,14.2,15.9,15.9,16.3,15.7,9,16.1,45,80.4
+870,Union County,English Learners,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+870,Union County,Students with Disabilities,15,88,11.8,13.6,12.1,14,13.1,<1%,<1%,>99%,>99%
+880,Van Buren County,All Students,50,100,19.5,18.9,20.7,18.6,19.6,23,46,23,46
+880,Van Buren County,Black/Hispanic/Native American,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+880,Van Buren County,Economically Disadvantaged,23,100,18.4,17.9,19.7,17.6,18.6,8,34.8,15,65.2
+880,Van Buren County,Students with Disabilities,5,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+890,Warren County,All Students,406,100,17.6,17.7,18.9,18.8,18.4,129,31.8,236,58.1
+890,Warren County,Black/Hispanic/Native American,118,100,15.7,16.6,17.5,17.2,16.9,29,24.6,79,66.9
+890,Warren County,Economically Disadvantaged,161,100,16.4,16.8,17.9,18.3,17.5,41,25.5,106,65.8
+890,Warren County,English Learners,25,100,12.2,15,14.2,16.2,14.6,2,8,22,88
+890,Warren County,Students with Disabilities,40,100,11.8,14.1,13.1,15.4,13.7,2,5,38,95
+900,Washington County,All Students,642,99,19.2,18.6,20.1,19.2,19.4,251,39.1,308,48
+900,Washington County,Black/Hispanic/Native American,55,100,16.6,17.3,18.4,17.1,17.4,15,27.3,35,63.6
+900,Washington County,Economically Disadvantaged,149,99,16.7,16.7,18,17.3,17.3,36,24.2,98,65.8
+900,Washington County,English Learners,11,100,12.7,15.3,13.5,14.5,14.1,1,9.1,10,90.9
+900,Washington County,Students with Disabilities,77,99,13.8,15.2,15.2,15.9,15.2,6,7.8,68,88.3
+901,Johnson City,All Students,593,99,20,20.6,21.5,20.7,20.8,295,49.7,244,41.1
+901,Johnson City,Black/Hispanic/Native American,175,98,16.7,17.6,18.8,18.3,18,48,27.4,111,63.4
+901,Johnson City,Economically Disadvantaged,235,99,15.9,17,17.8,17.8,17.3,52,22.1,157,66.8
+901,Johnson City,English Learners,37,97,12.8,15.4,14.9,16.4,14.9,2,5.4,33,89.2
+901,Johnson City,Students with Disabilities,55,98,13.1,14.6,14.2,16,14.6,3,5.5,51,92.7
+910,Wayne County,All Students,138,100,17.3,17.5,19.1,18.3,18.2,40,29,76,55.1
+910,Wayne County,Black/Hispanic/Native American,9,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+910,Wayne County,Economically Disadvantaged,43,100,15.2,15.6,16.3,16.4,16,4,9.3,34,79.1
+910,Wayne County,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+910,Wayne County,Students with Disabilities,13,100,12.3,14.8,14,16.8,14.8,1,7.7,12,92.3
+920,Weakley County,All Students,244,98,18.9,18.9,19.9,20,19.6,94,38.5,107,43.9
+920,Weakley County,Black/Hispanic/Native American,43,91,15.4,16,16.1,17.8,16.5,6,14,30,69.8
+920,Weakley County,Economically Disadvantaged,81,98,16.4,16.7,17.2,18.4,17.4,14,17.3,51,63
+920,Weakley County,English Learners,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+920,Weakley County,Students with Disabilities,24,92,11.8,13.8,13.3,15,13.5,<1%,<1%,>99%,>99%
+930,White County,All Students,258,100,18.2,19.3,19.1,19,19,101,39.1,125,48.4
+930,White County,Black/Hispanic/Native American,32,100,14.3,16.5,16.1,16.8,15.9,3,9.4,23,71.9
+930,White County,Economically Disadvantaged,79,100,16.1,17.5,16.9,17.3,17.1,21,26.6,50,63.3
+930,White County,English Learners,5,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+930,White County,Students with Disabilities,30,100,11.3,14.4,12.3,14.6,13.3,<1%,<1%,Suppressed,Suppressed
+940,Williamson County,All Students,3446,100,25.3,24.9,25.6,24.7,25.3,2722,79,453,13.1
+940,Williamson County,Black/Hispanic/Native American,529,100,21.2,21.2,22.2,21.5,21.7,294,55.6,174,32.9
+940,Williamson County,Economically Disadvantaged,150,99,19.3,19.9,20,20.6,20.1,66,44,68,45.3
+940,Williamson County,English Learners,97,100,18.4,20.8,19.1,20.2,19.8,36,37.1,48,49.5
+940,Williamson County,Students with Disabilities,244,100,18.7,19.4,20.2,20.1,19.8,97,39.8,124,50.8
+950,Wilson County,All Students,1812,100,20,19.6,20.8,20.3,20.4,825,45.5,719,39.7
+950,Wilson County,Black/Hispanic/Native American,469,100,17,17.3,18.2,18.1,17.8,113,24.1,288,61.4
+950,Wilson County,Economically Disadvantaged,317,100,16.9,17.3,18,17.9,17.7,74,23.3,202,63.7
+950,Wilson County,English Learners,129,100,14.2,16.3,14.8,16.6,15.6,14,10.9,107,82.9
+950,Wilson County,Students with Disabilities,141,99,15.1,16.2,16.2,17.2,16.3,18,12.8,110,78
+961,Alvin C. York Agricultural Institute,All Students,98,100,19.8,19.2,20,20.1,19.9,42,42.9,45,45.9
+961,Alvin C. York Agricultural Institute,Black/Hispanic/Native American,3,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+961,Alvin C. York Agricultural Institute,Economically Disadvantaged,40,100,18.4,17.8,18.9,18.9,18.7,14,35,22,55
+961,Alvin C. York Agricultural Institute,Students with Disabilities,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+963,Tennessee School for Blind,All Students,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+963,Tennessee School for Blind,Economically Disadvantaged,2,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+963,Tennessee School for Blind,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+963,Tennessee School for Blind,Students with Disabilities,6,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+964,Tennessee Schools for the Deaf,All Students,10,100,15.1,14.9,14.9,16.4,15.5,1,10,8,80
+964,Tennessee Schools for the Deaf,Black/Hispanic/Native American,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+964,Tennessee Schools for the Deaf,Economically Disadvantaged,4,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+964,Tennessee Schools for the Deaf,Students with Disabilities,10,100,15.1,14.9,14.9,16.4,15.5,1,10,8,80
+970,Department Of Children's Services Education Division,All Students,50,41,13.1,14.5,14,15.3,14.4,<1%,<1%,Suppressed,Suppressed
+970,Department Of Children's Services Education Division,Black/Hispanic/Native American,22,38,12.6,14.3,13.1,15.1,13.8,<1%,<1%,Suppressed,Suppressed
+970,Department Of Children's Services Education Division,Economically Disadvantaged,50,41,13.1,14.5,14,15.3,14.4,<1%,<1%,Suppressed,Suppressed
+970,Department Of Children's Services Education Division,English Learners,1,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+970,Department Of Children's Services Education Division,Students with Disabilities,13,36,12.8,13.6,12.9,14.9,13.8,<1%,<1%,Suppressed,Suppressed
+985,Achievement School District,All Students,86,97,12,15.5,15,15.3,14.6,7,8.1,75,87.2
+985,Achievement School District,Black/Hispanic/Native American,83,97,11.9,15.5,14.9,15.3,14.5,6,7.2,73,88
+985,Achievement School District,Economically Disadvantaged,61,95,11.8,15.4,15,15.4,14.5,5,8.2,54,88.5
+985,Achievement School District,English Learners,7,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students
+985,Achievement School District,Students with Disabilities,11,79,10.5,13.7,12.5,13.3,12.7,<1%,<1%,Suppressed,Suppressed
+987,Tennessee Public Charter School Commission,All Students,76,95,12.7,15.3,15.5,15.3,14.9,2,2.6,68,89.5
+987,Tennessee Public Charter School Commission,Black/Hispanic/Native American,72,95,12.9,15.3,15.6,15.2,14.9,2,2.8,64,88.9
+987,Tennessee Public Charter School Commission,Economically Disadvantaged,50,94,12.6,15.3,15.7,15,14.8,2,4,45,90
+987,Tennessee Public Charter School Commission,English Learners,14,93,11.1,14.8,13.9,14.6,13.9,<1%,<1%,>99%,>99%
+987,Tennessee Public Charter School Commission,Students with Disabilities,9,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students,<10 students

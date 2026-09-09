@@ -1,0 +1,7 @@
+.env
+**/.DS_Store
+**/__pycache__/
+work/raw/**/*.zip
+work/raw/**/*.xlsx
+work/raw/acs5_school_district_unified_2023.json
+work/raw/acs5_school_district_unified_2023.csv

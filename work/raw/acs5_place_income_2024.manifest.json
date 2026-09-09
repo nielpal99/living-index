@@ -1,0 +1,16 @@
+{
+  "source_id": "acs5_2024_state_county_place_income",
+  "publisher": "U.S. Census Bureau",
+  "dataset": "ACS 5-year",
+  "vintage": "2024",
+  "retrieved_at": "2026-09-08T05:26:19.620915+00:00",
+  "source_url": "https://api.census.gov/data/2024/acs/acs5",
+  "geographies": [
+    "state",
+    "county",
+    "place"
+  ],
+  "record_count": 35233,
+  "sha256": "cd37a79b7aec0c4855188e2a680fdb35233818080b1ce86a051e111802c42da6",
+  "notes": "Census places are the reproducible city search surface; U.S. states plus DC, excluding territories."
+}

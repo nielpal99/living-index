@@ -1,0 +1,18 @@
+{
+  "source_id": "acs5_2024_place_education",
+  "publisher": "U.S. Census Bureau",
+  "dataset": "ACS 5-year",
+  "vintage": "2024",
+  "retrieved_at": "2026-09-08T21:58:48.360362+00:00",
+  "source_url": "https://api.census.gov/data/2024/acs/acs5",
+  "variables": [
+    "B15003_001E",
+    "B15003_022E",
+    "B15003_023E",
+    "B15003_024E",
+    "B15003_025E"
+  ],
+  "record_count": 32330,
+  "sha256": "a4a7e75895c17b5eb71739ae723586d9065da825e4422a1fc4d435cb1bf093b1",
+  "notes": "Bachelor's-or-higher is the share of residents age 25+ with a bachelor's, master's, professional, or doctorate degree."
+}
