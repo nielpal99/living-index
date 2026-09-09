@@ -6,7 +6,7 @@
 2. Bronze preserves the source artifact and manifest without mutation.
 3. Silver normalizes identifiers, units, vintages, populations, aggregation methods, and quality fields.
 4. Gold selects current records, applies quality gates, calculates separate percentiles, and exposes search surfaces.
-5. The local app consumes exported place extracts while Databricks remains the system of record.
+5. The local app consumes exported place extracts while Databricks remains the system of record. School-performance tables are optional enrichment, not a prerequisite for community discovery.
 
 ## Core entities
 
@@ -14,7 +14,7 @@
 - `geography_crosswalk`: explicit relationships with relationship type and confidence.
 - `source_registry`: source URL, owner, retrieval date, cadence, and status.
 - `metric_definition`: unit, population, vintage, aggregation, comparability group, and confidence.
-- `observation`: append-only measured values with source and quality metadata.
+- `observation`: append-only measured values with source and quality metadata; school observations remain a separate enrichment stream.
 - `gold` views: current, eligible, percentile, and scored records.
 
 ## Comparability rule

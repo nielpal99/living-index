@@ -2,21 +2,21 @@
 
 Living Index is a transparent place-intelligence prototype for discovering U.S. communities that fit a person’s priorities.
 
-It combines Census geography, ACS household and education measures, optional housing context, and school-performance observations when comparable official data is available. The goal is to make the inputs, limitations, and tradeoffs visible.
+It combines Census geography, ACS household and education measures, and optional housing context. School data is retained as a secondary enrichment path, but it is not the product’s primary focus. The goal is to make the inputs, limitations, and tradeoffs visible.
 
 ## What is here
 
 - A local interactive community finder with map filtering, income brackets, population controls, education thresholds, and Zillow links.
 - A Databricks bronze/silver/gold data foundation for raw artifacts, standardized entities, provenance, quality checks, and search views.
 - Reusable Python ingestion and normalization scripts for ACS, NCES, and state education sources.
-- Separate SAT and ACT metrics with explicit methodology and comparability fields.
+- A secondary school-data foundation with separate SAT and ACT metrics and explicit methodology fields.
 - Append-only source lineage and validation SQL designed to preserve historical observations.
 
 ## Current product behavior
 
 The prototype searches Census places using 2024 ACS 5-year data. The default view uses $120,000+ median household income, 30%+ bachelor’s attainment among residents age 25+, and 2,000+ residents by default with a 1,000-resident floor. Incorporated places and CDPs remain distinct.
 
-Housing and demographic fields are descriptive context. They do not change the V1 score. School performance is shown only where an official observation and a defensible geography relationship exist.
+Housing and demographic fields are descriptive context. They do not change the V1 score. School performance remains optional context and is shown only where an official observation and a defensible geography relationship exist.
 
 ## Workflow
 
@@ -83,9 +83,8 @@ Databricks is currently a governed SQL warehouse and batch-processing environmen
 ## Roadmap
 
 1. Finish canonical geography and source registration across all states.
-2. Expand official school-performance coverage by methodology group.
-3. Add transparent user-weighted scoring.
-4. Add boundary-aware district/place profiles.
-5. Add licensed housing inventory and affordability signals.
+2. Add transparent user-weighted scoring.
+3. Add licensed housing inventory and affordability signals.
+4. Optionally deepen school-performance coverage by methodology group.
 
 See [`docs/architecture.md`](docs/architecture.md), [`docs/data-policy.md`](docs/data-policy.md), and [`docs/backend_audit.md`](docs/backend_audit.md) for the detailed design.
