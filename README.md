@@ -1,78 +1,91 @@
-# Living Index — V1
+# Living Index
 
-An evidence-backed, configurable index of U.S. places and school districts. V1 starts with a national district universe, Census ACS demographics, and SAT/ACT performance observations.
+Living Index is a transparent place-intelligence prototype for discovering U.S. communities that fit a person’s priorities.
 
-## V1 scope
+It combines Census geography, ACS household and education measures, optional housing context, and school-performance observations when comparable official data is available. The goal is to make the inputs, limitations, and tradeoffs visible.
 
-- Public school districts from NCES/CCD, keyed by NCES district ID and Census GEOID.
-- ACS 5-year median household income and bachelor's degree-or-higher attainment.
-- Optional Zillow Economic Research housing metrics, stored at their original geography.
-- SAT and ACT average composite scores when an official or secondary source is available.
-- Separate SAT and ACT percentile rankings.
-- Source provenance, freshness, aggregation method, and confidence labels.
+## What is here
 
-V1 treats the user's current thresholds as a query profile, not as permanent product rules.
+- A local interactive community finder with map filtering, income brackets, population controls, education thresholds, and Zillow links.
+- A Databricks bronze/silver/gold data foundation for raw artifacts, standardized entities, provenance, quality checks, and search views.
+- Reusable Python ingestion and normalization scripts for ACS, NCES, and state education sources.
+- Separate SAT and ACT metrics with explicit methodology and comparability fields.
+- Append-only source lineage and validation SQL designed to preserve historical observations.
 
-## Data layers
+## Current product behavior
 
-- `bronze`: raw files, API responses, and research artifacts.
-- `silver`: standardized districts, schools, demographics, performance observations, housing metrics, and sources.
-- `gold`: filtered and ranked views intended for search and dashboards.
+The prototype searches Census places using 2024 ACS 5-year data. The default view uses $120,000+ median household income, 30%+ bachelor’s attainment among residents age 25+, and 2,000+ residents by default with a 1,000-resident floor. Incorporated places and CDPs remain distinct.
 
-## First Databricks steps
+Housing and demographic fields are descriptive context. They do not change the V1 score. School performance is shown only where an official observation and a defensible geography relationship exist.
 
-1. Create the catalog and schemas with `databricks/sql/01_create_schema.sql`.
-2. Load NCES district and school directory files into `bronze`.
-3. Run `databricks/notebooks/02_ingest_acs_demographics.py` with the chosen ACS vintage.
-4. Add the first state SAT/ACT files as raw observations.
-5. Build the derived query view with `databricks/sql/03_create_gold_views.sql`.
-6. Create the optional housing table with `databricks/sql/04_create_housing_table.sql` and load only official Zillow Research downloads.
-7. Create the configurable V1 scoring layer with `databricks/sql/05_create_scoring_layer.sql`.
-8. Use `databricks/sql/06_audited_rankings_and_validation.sql` for guarded percentiles, comparability checks, and validation output.
-9. Run `databricks/sql/07_backend_hardening.sql` to add canonical geography, metric definitions, lineage, and observation-quality fields.
-10. Load Kentucky's normalized official ACT district observations with `databricks/notebooks/05_ingest_ky_act.py`.
-11. Run `databricks/sql/10_national_state_registry.sql` once to create the national state-source control plane.
-12. Add verified official URLs and metric definitions to `living_index.silver.state_source_registry`; the batch discovery notebook then checks every configured state in one run.
-13. Run `databricks/sql/11_data_foundation_hardening.sql` and load an official NCES membership extract with `databricks/notebooks/06_refresh_nces_enrollment.py`.
-14. Run `databricks/sql/12_current_record_and_quality_gates.sql` before promoting any new state source into scoring.
-15. Run `databricks/notebooks/07_ingest_place_income.py` to load 2024 ACS 5-year median income for all 50 states, DC, counties, and Census places directly through the Census API.
-16. Run `databricks/sql/14_income_quality_and_search.sql` to register ACS provenance and create the income search surface.
-17. Run `databricks/sql/18_income_bracket_results.sql` to inspect nationwide coverage, `$120,000+` places, and bracket distributions.
-18. Run `scripts/fetch_acs_place_education.py` to add place-level bachelor's-or-higher attainment from ACS table B15003; the local finder joins it to income by Census place GEOID.
-19. Run `scripts/build_place_school_crosswalk_candidates.py` to create a conservative NCES school-mailing-city candidate layer. These 15,353 candidates are explicitly low-confidence and are not used to assign school performance to places until an official boundary/spatial crosswalk is validated.
-20. Run `scripts/build_spatial_place_school_crosswalk.py` to create the stronger Census TIGER/Line 2023 polygon-overlap layer. It retains 36,162 many-to-many links across 30,243 places and 10,359 unified districts, with overlap share and confidence recorded; area overlap is not treated as enrollment share.
-21. Run `scripts/fetch_acs_place_demographics.py` to add descriptive ACS composition signals—race/ethnicity, foreign-born share, and age structure. These are displayed as context and are not part of V1 scoring.
-22. Run `databricks/sql/13g_place_demographics.sql` to append the same demographic layer into `living_index.silver.place_demographics` with coverage and missingness validation.
-23. Run `scripts/build_place_school_performance_context.py` and then `databricks/sql/13h_place_school_performance_context.sql` to expose loaded official district scores beside place overlaps without collapsing many-to-many geography into a false place score.
-24. Run `scripts/fetch_acs_place_housing.py` to add 2024 ACS place-level median home value, median gross rent, and renter cost-burden context; load it append-only with `databricks/sql/19_place_housing_context.sql`.
+## Workflow
 
-## Interactive discovery surface
+```text
+Official sources / APIs
+          ↓
+Bronze: immutable raw artifacts and manifests
+          ↓
+Silver: canonical geography, normalized metrics, lineage, quality fields
+          ↓
+Gold: guarded search, percentiles, scoring, and coverage views
+          ↓
+Local finder / future API
+```
 
-The local prototype at `app/index.html` is now the first consumer of the warehouse-style place layer. It supports:
+The important work is standardization: an “average ACT score” is only comparable when its population, test year, aggregation method, and participation context align. Until then, the warehouse preserves the value but keeps it out of combined national rankings.
 
-- a nationwide Census-place income and bachelor's-attainment search using the 2024 ACS 5-year extracts;
-- explicit income brackets and the `$120,000` baseline;
-- a sourced U.S. state-boundary map that highlights matching states and filters the results when clicked;
-- click-through community profiles with provenance and data-gap language;
-- no invented composite score while schools and housing are not yet joined at place level.
+## Run the local prototype
 
-The product roadmap is intentionally layered: (1) place-level income and geography, (2) place-level education and school crosswalks, (3) transparent user-adjustable scoring, (4) boundary-aware community profiles, and only then (5) licensed live housing/listing feeds. The map is a discovery surface, not a claim that the current places are neighborhoods or that live listings are available.
+From the repository root:
 
-## Important interpretation notes
+```bash
+python3 -m http.server 8765 --bind 127.0.0.1
+```
 
-- ACS values describe residents inside a district boundary, not necessarily enrolled students.
-- SAT and ACT are ranked separately in V1.
-- A district score calculated from school scores must identify its aggregation method.
-- Niche can be used as a discovery or secondary source, but official state and district sources are preferred.
-- Zillow metrics must retain their source geography; do not imply district-level precision without a documented crosswalk.
-- The default score is academic-forward, but weights and eligibility thresholds live in `living_index.gold.scoring_profiles` so they can become user-specific later.
-- National-relative percentiles are intentionally withheld until the coverage and metric registry support them; state-relative results are labeled explicitly.
-- Kentucky's grade-11 district-total ACT measure remains a separate methodology group from Georgia and Tennessee until the published population and aggregation definitions align.
-- All 50 states and DC are represented in the source registry before ingestion. A state remains `discovery_required` until an official source URL, population definition, vintage, and aggregation rule are verified; this is deliberate and prevents an invented or incomparable national ranking.
-- The scalable unit of work is now a registry row plus an adapter configuration, not a bespoke notebook per state. States without official district-level SAT/ACT data remain visible as coverage gaps rather than silently dropping out.
-- Every configured ingestion run records an append-only artifact manifest. Current-record selection excludes superseded lineage records, and score eligibility requires a non-null score, a sample of at least 30, and medium/high confidence.
-- “City” is operationalized as a Census place (incorporated places and CDPs), with the geography type retained so state, county, and place statistics are never conflated.
-- The income search surface exposes the current V1 baseline ($120,000), explicit income brackets, availability status, and within-geography percentile without changing the underlying ACS values.
-- The demographic context currently uses ACS broad categories such as “Asian alone”; that is not an Indian-specific measure. A future detailed-subgroup layer can add Indian ancestry/origin signals without changing the V1 quality score.
-- Income brackets are Under 80,000; 80,000–119,999; 120,000–149,999 (the V1 baseline band); 150,000–199,999; 200,000–249,999; and 250,000+. ACS values reported as $250,000+ are open-ended and should not be interpreted as exact estimates.
-- V2 housing context is descriptive only: median home value, median gross rent, and the share of renter households paying at least 30% of income toward rent. It does not alter the V1 score until a user-configurable affordability model is defined.
+Open <http://127.0.0.1:8765/app/index.html>.
+
+## Databricks workflow
+
+Run the SQL files in dependency order:
+
+1. Create `living_index` and the bronze, silver, and gold schemas.
+2. Load NCES and source artifacts into bronze.
+3. Normalize ACS, state performance, housing, and crosswalk inputs into silver.
+4. Register provenance, metric definitions, vintages, aggregation methods, and confidence.
+5. Apply current-record and quality gates before promotion.
+6. Build guarded gold views and inspect coverage and comparability outputs.
+
+The main controls are in `databricks/sql/12_current_record_and_quality_gates.sql`, `14_income_quality_and_search.sql`, `15_finops_guardrails.sql`, `19_place_housing_context.sql`, and `06_audited_rankings_and_validation.sql`.
+
+Databricks is currently a governed SQL warehouse and batch-processing environment—not yet a production API, streaming system, or fully scheduled national pipeline.
+
+## Repository layout
+
+| Path | Purpose |
+| --- | --- |
+| `app/` | Interactive local discovery prototype |
+| `config/` | Source adapter and ingestion configuration |
+| `databricks/notebooks/` | Batch discovery, ingestion, and normalization jobs |
+| `databricks/sql/` | Schemas, tables, views, quality gates, scoring, and validation |
+| `scripts/` | Local API fetchers, converters, crosswalk builders, and validators |
+| `docs/` | Architecture, audit findings, and data policy |
+| `work/raw/` | Reproducible local extracts and source-derived artifacts |
+
+## Limitations
+
+- ACS estimates include sampling uncertainty and may be suppressed or open-ended.
+- City is represented as a Census place; a CDP is not an incorporated city.
+- Area overlap is not the same as a school attendance boundary.
+- SAT and ACT remain separate metrics.
+- National-relative percentiles are withheld until coverage and comparability are adequate.
+- Zillow links lead to current external listings; listing data is not stored here.
+
+## Roadmap
+
+1. Finish canonical geography and source registration across all states.
+2. Expand official school-performance coverage by methodology group.
+3. Add transparent user-weighted scoring.
+4. Add boundary-aware district/place profiles.
+5. Add licensed housing inventory and affordability signals.
+
+See [`docs/architecture.md`](docs/architecture.md), [`docs/data-policy.md`](docs/data-policy.md), and [`docs/backend_audit.md`](docs/backend_audit.md) for the detailed design.
